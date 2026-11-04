@@ -73,4 +73,4 @@ The system follows a cluster-aware content-based recommendation approach.
 
 - **Google Drive:** [View Project Files](https://drive.google.com/drive/folders/1H7yy-K7YEfw9B22XZ6mB_xURoKTTmttr?usp=sharing)
 
-- **GitHub:** [View Source Code](https://github.com/shreya2923/Spotify-Music-Genre-Segmentation-and-Recommendation-System-Corizo-AI-Internship-Major-Project)
+- **GitHub:** [View Source Code](https://github.com/shreya2923/Spotify-Music-Genre-Segmentation-and-Recommendation-System-Corizo-AI-Internship-Major-Project/edit/main/README.md)
